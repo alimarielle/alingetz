@@ -1,4 +1,14 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://imgur.com/a/ihoZZJ1" width="100%" height="auto"/></a>
+# Hi, I'm Allyza Marielle Goyon! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+###
+
+<div align="center">
+  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
+</div>
+
+###
+
+
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Discord" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
