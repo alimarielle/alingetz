@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://github.dev/alingetz/alingetz/blob/main/ali_banner.gif"/>
+  <img height="" src="https://github.com/alingetz/alingetz/blob/main/ali_banner.gif?raw=true"/>
 </div>
 
 ###
@@ -16,46 +16,42 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/pochita" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <br/>
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi ⚡, I am **Ali**! I'm an aspiring front-end developer currently honing my skills at <i>FEU Institute of Technology</i>. I'm passionate about creating user-friendly and visually appealing web experiences, and I'm always eager to learn and grow in this exciting field. *•`.🫧 ☆✩°｡⋆⸜ 🎧✮💿
 
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary>⭒˚｡⋆🖁 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I'm currently studying **BSIT- Web and Mobile Development**
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I love anything <i>design</i>
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
+- 🤝 I’m looking for other people to **collab** with
+  
+- 📫 Reach me out at **allyza.goyon@gmail.com**
 
 </details>
   
 </p>
-  
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
+
+<h2 align="center">Techs I Use</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
 </div>
--->
+
+###
+
 
 ## 🔥 Github Stats
 
@@ -64,12 +60,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-## 📘 My top open source projects
 
-<p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-</p>
 
 <p align="left">
   <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
