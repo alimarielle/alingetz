@@ -10,6 +10,8 @@
   <img height="" src="https://github.com/alingetz/alingetz/blob/main/ali_banner.gif?raw=true"/>
 </div>
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31dcd7su7wmxs6m2lpowajwohze4&cover_image=false&theme=default&show_offline=false&background_color=6d1f89&interchange=false&bar_color=000000&bar_color_cover=false)]]
+
 ###
 
 
