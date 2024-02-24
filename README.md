@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.alingetz" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Allyza+Goyon!;" />
@@ -81,5 +81,4 @@ Hi ⚡, I am **Ali**! I'm an aspiring front-end developer currently honing my sk
 <br/><br/>
 
 <hr/>
-
 <br/>
